@@ -1,6 +1,7 @@
 ### Hey I am Anil
 
-![lazy.gif](./lazy.gif?raw=true)
+
+<img src="/lazy.gif" width="250" height="250"/>
 
 <!--
 **simbathesailor/simbathesailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
