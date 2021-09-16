@@ -1,7 +1,29 @@
-### Hey I am Anil
+When the going goes tough, the tough gets going.
 
 
 <img align="right" src="/lazy.gif" width="270" height="270"/>
+
+
+
+Web technologies, Reactjs, Nodejs, Golang, Performace, Devtools
+
+Learning
+
+- Product development
+- Golang
+- Design
+- Micro economics
+
+
+Currently working on a tool to improve creating themeable websites , more  towards dev 
+experience.
+
+
+My personal blog where post every month or so
+
+https://simbathesailor.dev/
+
+
 
 <!--
 **simbathesailor/simbathesailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
