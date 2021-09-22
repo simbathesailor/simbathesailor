@@ -17,8 +17,7 @@ Web technologies, Reactjs, Nodejs, Golang, Performace, Devtools
 - Micro economics
 
 
-### Currently working on a tool to improve creating themeable websites , more  towards dev 
-experience.
+### Currently working on a tool to improve creating themeable websites , more  towards dev experience.
 
 
 My personal blog where post every month or so
