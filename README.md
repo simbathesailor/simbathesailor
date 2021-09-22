@@ -20,7 +20,7 @@ Web technologies, Reactjs, Nodejs, Golang, Performace, Devtools
 ### Currently working on a tool to improve creating themeable websites , more  towards dev experience.
 
 
-My personal blog where post every month or so
+My personal blog where I post every month or so
 
 https://simbathesailor.dev/
 
