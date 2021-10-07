@@ -7,10 +7,10 @@
 
 ### Worked on following :
 
-- Web technologie,
-- Reactjs,
-- Nodejs,
-- Performace,
+- Web technologies
+- Reactjs
+- Nodejs
+- Performace
 - Devtools
 
 ### Learning
