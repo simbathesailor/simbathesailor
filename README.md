@@ -7,7 +7,11 @@
 
 ### Worked on following :
 
-Web technologies, Reactjs, Nodejs, Golang, Performace, Devtools
+- Web technologie,
+- Reactjs,
+- Nodejs,
+- Performace,
+- Devtools
 
 ### Learning
 
