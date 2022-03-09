@@ -2,7 +2,7 @@
 ## When the going goes tough, the tough gets going.
 
 
-<img align="right" src="/lazy.gif" width="270" height="270"/>
+<img align="right" src="/basketball.gif" width="270" height="270"/>
 
 
 ### Worked on following :
