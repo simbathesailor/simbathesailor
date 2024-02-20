@@ -1,31 +1,16 @@
 
-## When the going goes tough, the tough gets going.
+## When the going goes tough, the tough get going.
 
 
 <img align="right" src="/basketball.gif" width="300" />
 
+### Technologies/Languages worked on
+Web technologies, Microservices, Reactjs, Java, C++, Python
+Web Performace, Devtools, Golang, and many other technologies in a decade-long career.
 
 
-### Worked on following :
 
-- Web technologies
-- Reactjs
-- Nodejs
-- Performace
-- Devtools
-
-### Learning
-
-- Product development
-- Golang
-- Design
-- Micro economics
-
-
-### Currently working on a tool to improve creating themeable websites , more  towards dev experience.
-
-
-My personal blog where I post every month or so
+My blog where I post every month or so
 
 https://simbathesailor.dev/
 
